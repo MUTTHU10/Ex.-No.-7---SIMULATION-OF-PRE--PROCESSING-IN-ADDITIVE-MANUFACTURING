@@ -39,7 +39,7 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-
+![image](https://github.com/MUTTHU10/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-19%20105530.png?raw=true)
 
 
 ### Name:MUTTHU M
