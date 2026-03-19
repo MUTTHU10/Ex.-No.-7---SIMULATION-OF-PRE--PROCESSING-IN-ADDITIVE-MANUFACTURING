@@ -42,6 +42,7 @@
 ![image](https://github.com/MUTTHU10/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-19%20105530.png?raw=true)
 ![image](https://github.com/MUTTHU10/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-19%20105546.png?raw=true)
 ![image](https://github.com/MUTTHU10/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-19%20105601.png?raw=true)
+![image](https://github.com/MUTTHU10/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-19%20105616.png?raw=true)
 
 
 ### Name:MUTTHU M
